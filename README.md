@@ -2,11 +2,16 @@
 
 How to use  
 step 1.  
- $ ./autogen.sh  
+```
+$ ./autogen.sh  
+```
 step 2.  
- $ ./configure  
+```
+$ ./configure  
+```
  You can use option if necessary.  
-step 3.  
+step 3. 
+```
  $ make  
  $ make install  
-
+```
