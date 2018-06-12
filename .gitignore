@@ -34,4 +34,6 @@ stamp-h1
 
 # add user
 hello
+config.guess
+config.sub
 

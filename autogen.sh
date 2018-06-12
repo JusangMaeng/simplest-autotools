@@ -18,9 +18,4 @@ autoconf
 echo "Running automake..."
 automake --foreign --add-missing
 
-if [ -f configure ]; then
-	./configure
-fi
-
-echo -e "\n\nEnd configuration !!"
-echo "Input command 'make' or 'make install'"
+echo -e "\n\nCreate configure !!"
