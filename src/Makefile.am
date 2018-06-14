@@ -1,3 +1,3 @@
-bin_PROGRAMS = hello
+bin_PROGRAMS = helloAutotools
 
-hello_SOURCES = hello.c
+helloAutotools_SOURCES = hello.c
